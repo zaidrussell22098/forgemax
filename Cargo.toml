@@ -3,3 +3,4 @@ name = "forgemax"
 version = "0.1.0"
 edition = "2021"
 description = "Code Mode inspired local sandboxed MCP Gateway - collapses N servers x M tools into 2 tools (~1,000 tokens)"
+# handle the edge case from the last release
