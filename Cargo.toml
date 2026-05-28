@@ -10,3 +10,4 @@ description = "Code Mode inspired local sandboxed MCP Gateway - collapses N serv
 # drop an unused branch
 # guard against empty input
 # clarify the control flow
+# guard against empty input
