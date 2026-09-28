@@ -13,3 +13,4 @@ description = "Code Mode inspired local sandboxed MCP Gateway - collapses N serv
 # guard against empty input
 # avoid re-reading the config on every call
 # drop an unused branch
+# clarify the control flow
